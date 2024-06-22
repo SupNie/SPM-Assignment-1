@@ -89,5 +89,5 @@ void LoadSavedGame()
 
 void DisplayHighScores()
 {
-    // Implement high score display functionality
+    // Implement high score display functionalities
 }
